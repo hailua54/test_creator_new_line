@@ -1,3 +1,0 @@
-# Declare files that will always have CRLF line endings on checkout.
-*.meta text eol=crlf
-*.fire text eol=crlf
